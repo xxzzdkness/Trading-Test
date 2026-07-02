@@ -1,0 +1,6 @@
+# Symbols monitored by the trading signal monitor.
+# Edit this list for your own watchlist.
+tickers:
+  - AAPL
+  - MSFT
+  - NVDA
